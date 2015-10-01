@@ -6,7 +6,7 @@ docroot/sites/*/private
 
 
 # Ignore configuration files that may contain sensitive information.
-sites/*/*settings*.php
+docroot/sites/*/*settings*.php
 
 
 # Ignore others 
